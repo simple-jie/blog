@@ -13,6 +13,8 @@ run instance
 
 deploy
 > hexo d -g
+if get error deployer not found:git 
+> npm install hexo-deployer-git --save
 
 new post
 > hexo new post "post title"
