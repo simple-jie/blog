@@ -1,8 +1,10 @@
 # Header
 
 menu:
-  主页: /
-  随笔: /tags/随笔/
+  home: /
+  spring: /categories/Spring
+  android: /categories/Android
+  随笔: /tags/随笔
 
 # SubNav
 subnav:
